@@ -1,5 +1,4 @@
 from multiprocessing import *
-import multiprocessing
 import csv
 
 def half1():
